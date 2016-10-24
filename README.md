@@ -6,9 +6,9 @@ Getting Started
 
 For installation instructions.
 
------
-
+$ Download and install [NodeJs](https://nodejs.org/en/) 
 ```
+Run in console: 
 $ npm install
 $ npm start
 ```
